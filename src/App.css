@@ -19,7 +19,7 @@ body{
   position: relative;
   height: 100%;
   width: 100%;
-  background-image: url('./assets/bg.png');
+  background-image: url('https://www.survivingwithandroid.com/wp-content/uploads/2014/11/android_weather_app.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
